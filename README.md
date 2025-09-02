@@ -1,16 +1,30 @@
-# project1_api
+# Project1_API
 
-A new Flutter project.
+A Flutter project for practicing API integration.
 
-## Getting Started
+## 👤 Identitas
+- Nama   : YENI TYASTUTI
+- Kelas  : XII RPL 1
+- Sekolah: SMKN 1 Bantul
+- Mapel  : Pemrograman Perangkat Bergerak
+- Tugas  : Project Flutter API
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
+Proyek ini merupakan dasar aplikasi Flutter yang dapat dijalankan pada:
+- Android
+- iOS
+- Web
+- Desktop (Windows, Linux, macOS)
 
-A few resources to get you started if this is your first Flutter project:
+### Struktur Project
+- **lib/** → berisi kode utama aplikasi (Dart).
+- **pubspec.yaml** → konfigurasi dependency.
+- **android/**, **ios/**, **web/**, **windows/** → platform-specific code.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Cara Menjalankan
+1. Pastikan sudah install [Flutter](https://docs.flutter.dev/get-started/install).
+2. Clone/download repository ini.
+3. Jalankan perintah:
+   ```bash
+   flutter pub get
+   flutter run
