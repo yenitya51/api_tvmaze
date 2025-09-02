@@ -32,4 +32,4 @@ Proyek ini merupakan dasar aplikasi Flutter yang dapat dijalankan pada:
 ## 📸 Hasil Project
 Berikut adalah hasil tampilan dari project Flutter API:  
 
-![Screenshot Aplikasi](https://drive.google.com/drive/folders/1I0-qLkac0VKHh1_rMQF-jLkwC3FgJIxG?usp=drive_link)
+(https://drive.google.com/drive/folders/1I0-qLkac0VKHh1_rMQF-jLkwC3FgJIxG?usp=drive_link)
